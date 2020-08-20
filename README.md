@@ -42,6 +42,6 @@ Events happening in the respective universities.
 * Front-end: ReactJS (Familiarity).
 
 ## Educational Qualification
-M.S.- Computer Science San Diego State University (May 2016) 3.15
-B.Tech. - Computer Science Punjab Technical University (May 2012) 3.5 
+- M.S.- Computer Science San Diego State University (May 2016) 3.15
+- B.Tech. - Computer Science Punjab Technical University (May 2012) 3.5 
 
