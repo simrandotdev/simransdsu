@@ -7,18 +7,28 @@ Currenly I am working as a remote contractor from Canada for a USA based company
 Some technologies that I work on day to day basis:
 
 -   iOS Development.
--   Android Development
 -   ASP.NET Core Web API.
 -   Express.js
+-   Android Development
 
 Technologies I know:
 
 -   Swift
 -   C#
--   PostgreSQL
+-   Javascript
+-   SQL
 -   Kotlin
 
 Want to connect with me?
+<br />
+<a href="https://www.youtube.com/channel/UCKefCGqxTWWZvVZ83w4lvfA">Youtube</a>
+<br />
 <a href="https://twitter.com/simrandotdev">Twitter</a>
-<a href="https://github.com/simransdsu">Github</a>
+<br />
 <a href="https://www.linkedin.com/in/simrandotdev/">LinkedIn</a>
+
+More About me:
+<br />
+<a href="https://www.simran.dev/">Website</a>
+<br />
+<a href="https://simran.app/">Portfolio</a>
