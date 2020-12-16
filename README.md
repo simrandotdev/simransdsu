@@ -6,18 +6,16 @@ Currenly I am working as a remote contractor from Canada for a USA based company
 
 Some technologies that I work on day to day basis:
 
--   iOS Development.
--   ASP.NET Core Web API.
--   Express.js
--   Android Development
+- iOS Development
+- Android Development
+- FastAPI
 
 Technologies I know:
 
 -   Swift
--   C#
--   Javascript
--   SQL
 -   Kotlin
+-   Python
+-   SQL
 
 Want to connect with me?
 <br />
