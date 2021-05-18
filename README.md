@@ -8,7 +8,7 @@ Some technologies that I work on day to day basis:
 
 - iOS Development
 - Android Development
-- FastAPI
+- ExpressJS
 
 Technologies I know:
 
