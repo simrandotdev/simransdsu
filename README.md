@@ -1,14 +1,14 @@
 Software developer trying to explore different faces of engineering and learning something new everyday.
 
-Graduate from San Diego State University, I have worked on different stacks from server to mobile and sprinkle of frontend(AngularJS, yes AngularJS) in between. A constant learner and always eager to learn more.
+I have worked on different stacks from server to mobile and sprinkle of frontend(AngularJS) in between. A constant learner and always eager to learn more.
 
-Currenly I am working as a Senior iOS developer for a major bank in Canada.
+Currenly I am working as a iOS developer @HSBC in Canada. Previously worked on a Consumer Cellulars mobile application for customers.
 
 Some technologies that I work on day to day basis:
 
-- iOS Development
-- Android Development
-- Ktor
+- iOS Development 
+- Android Development (My knowledge of Android deprecates faster than their APIs.)
+- Ktor (Learning and Teaching at the same time)
 
 Want to connect with me?
 <br />
