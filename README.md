@@ -20,6 +20,6 @@ Want to connect with me?
 
 More About me:
 <br />
-<a href="https://www.simran.dev/">Website</a>
+<a href="https://www.simran.dev/">Blog</a>
 <br />
 <a href="https://simran.app/">Portfolio</a>
