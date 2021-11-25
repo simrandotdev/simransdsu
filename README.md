@@ -2,13 +2,14 @@ Software developer trying to explore different faces of engineering and learning
 
 I have worked on different stacks from server to mobile and sprinkle of frontend(AngularJS) in between. A constant learner and always eager to learn more.
 
-Currenly I am working as a iOS developer @HSBC in Canada. Previously worked on a Consumer Cellulars mobile application for customers.
+Currenly I am working as a iOS developer @lululemon in Canada. Previously worked @HSBC and @AltSourceSoftware.
 
 Some technologies that I work on day to day basis:
 
 - iOS Development 
 - Android Development (My knowledge of Android deprecates faster than their APIs.)
 - Ktor (Learning and Teaching at the same time)
+- FastAPI 
 
 Want to connect with me?
 <br />
