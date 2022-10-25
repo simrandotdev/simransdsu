@@ -6,10 +6,9 @@ Currenly I am working as a iOS developer @lululemon in Canada. Previously worked
 
 Some technologies that I work on day to day basis:
 
-- iOS Development 
-- Android Development (My knowledge of Android deprecates faster than their APIs.)
-- Ktor (Learning and Teaching at the same time)
-- FastAPI 
+- iOS Development (UIKit, SwiftUI, Combine, Swift Concurrency, Core Data, GRDB)
+- ExpressJS
+- MongoDB
 
 ### Want to connect with me?
 <a href="https://www.youtube.com/channel/UCKefCGqxTWWZvVZ83w4lvfA">Youtube</a>
